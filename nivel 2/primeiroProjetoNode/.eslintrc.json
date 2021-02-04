@@ -19,7 +19,8 @@
       "prettier"
   ],
   "rules": {
-     "import/extensions": [
+    "class-methods-use-this": "off",
+    "import/extensions": [
       "error",
       "ignorePackages",
       {
